@@ -94,4 +94,5 @@ http://localhost:8080/#/queues/%2F/publisher
 ## Credits
 
 [That DevOps Guy YouTube Video](https://www.youtube.com/watch?v=_lpDfMkxccc)
+
 [docker-development-youtube-series GitHub Repository](https://github.com/marcel-dempers/docker-development-youtube-series/tree/master/messaging/rabbitmq)
